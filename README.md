@@ -18,7 +18,7 @@ circRNAs, zebrafish, tandem circRNAs
 ## Manuscript and contact information
 **Embryonic circular RNAs at tandem duplicated genes of zebrafish present new paradigm in gene expression**
 
-Vanessa Chong-Morrison<sup>1</sup> and Tatjana Sauka-Spengler<sup>1</sup>
+Vanessa Chong-Morrison<sup>1</sup> and Tatjana Sauka-Spengler<sup>1,</sup>
 
 
 
