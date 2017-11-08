@@ -40,4 +40,4 @@ Vanessa Chong-Morrison and Tatjana Sauka-Spengler: [Sauka-Spengler lab](http://w
 
 ## Acknowledgements
 
-This work was supported by MRC (G0902418), Lister Institute Research Prize, and an Oxford BHF CRE award (RE/08/004) to T.S-S. and a Clarendon Fund Fellowship to V.C-M.
+This work was supported by MRC (G0902418), Lister Institute Research Prize, and an Oxford BHF CRE award (RE/08/004) to T.S.-S. and a Clarendon Fund Fellowship to V.C.-M.
